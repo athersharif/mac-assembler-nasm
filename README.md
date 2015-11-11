@@ -1,10 +1,10 @@
 # Mac-Assembler-NASM
-Simple assembler program for Mac OS using NASM
+Simple console program written for Mac OS i386 architecture using NASM to display the contents of the registers.
 
 ## Notes
 1. Must have either Xcode or gcc installed.
-2. Run Xcode once after install and agree to the Terms and Conditions
-3. Must have NASM install
+2. Run Xcode once after install and agree to the Terms and Conditions.
+3. Must have NASM install.
 
 - Download NASM 2.11.06: http://www.nasm.us/pub/nasm/releasebuilds/2.11.06/
 - Instructions: http://www.neuraladvance.com/compiling-and-installing-nasm-on-mac-os-x.html
