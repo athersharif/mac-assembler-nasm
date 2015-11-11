@@ -5,8 +5,8 @@ Simple console program written for Mac OS i386 architecture using NASM to displa
 ## Notes
 
 1. Must have either Xcode or gcc installed.
-2. Run Xcode once after install and agree to the Terms and Conditions.
-3. Must have NASM install. If you don't, you can download and install using the links below.
+2. Must have either Xcode or gcc installed.
+3. Must have either Xcode or gcc installed.
 
 - Download NASM 2.11.06: http://www.nasm.us/pub/nasm/releasebuilds/2.11.06/
 - Instructions: http://www.neuraladvance.com/compiling-and-installing-nasm-on-mac-os-x.html
