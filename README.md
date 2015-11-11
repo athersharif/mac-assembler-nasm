@@ -10,9 +10,17 @@ Simple console program written for Mac OS i386 architecture using NASM to displa
 
 <!-- -->
 
-- Download NASM 2.11.06: http://www.nasm.us/pub/nasm/releasebuilds/2.11.06/
-- Instructions: http://www.neuraladvance.com/compiling-and-installing-nasm-on-mac-os-x.html
-- Manual: http://www.nasm.us/pub/nasm/releasebuilds/2.11.06/doc/nasmdoc.pdf
+### Download NASM 2.11.06
+
+http://www.nasm.us/pub/nasm/releasebuilds/2.11.06/
+
+### Instructions
+
+http://www.neuraladvance.com/compiling-and-installing-nasm-on-mac-os-x.html
+
+### Manual
+
+http://www.nasm.us/pub/nasm/releasebuilds/2.11.06/doc/nasmdoc.pdf
 
 ##Build		
 
